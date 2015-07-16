@@ -1,0 +1,26 @@
+{
+  "name": "playnine",
+  "version": "1.0.0",
+  "description": "number game with react",
+  "main": "script.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Phalegethon/playNine.git"
+  },
+  "keywords": [
+    "react",
+    "jsx",
+    "bootstrap",
+    "mind",
+    "games"
+  ],
+  "author": "Salih Gurkan Suerdem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phalegethon/playNine/issues"
+  },
+  "homepage": "https://github.com/Phalegethon/playNine#readme"
+}
